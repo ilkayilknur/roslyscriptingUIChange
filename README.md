@@ -1,1 +1,1 @@
-Demonstrates UI changing from C# scripts using Roslyn scripting APIs.
+Demonstrates UI updating from C# scripts using Roslyn scripting APIs.
